@@ -49,6 +49,7 @@ export * from "./src/Type/BooleanType";
 export * from "./src/Type/DefinitionType";
 export * from "./src/Type/EnumType";
 export * from "./src/Type/FunctionType";
+export * from "./src/Type/HiddenType";
 export * from "./src/Type/IntersectionType";
 export * from "./src/Type/LiteralType";
 export * from "./src/Type/NeverType";
